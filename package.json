@@ -11,7 +11,7 @@
   "author": "Andrew Smith",
   "license": "ISC",
   "dependencies": {
-    "hls.js": "^0.13.2-canary.4484"
+    "hls.js": "^0.13.2"
   },
   "devDependencies": {
     "babel-loader": "^8.0.6",
